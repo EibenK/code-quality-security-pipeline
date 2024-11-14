@@ -1,5 +1,5 @@
 # code-quality-security-pipeline
-This project automates code quality analysis and security vulnerability scanning for code repositories, providing real-time feedback on code health and compliance. The pipeline uses Jenkins to trigger scans and orchestrate tools like SonarQube (for code quality) and Snyk or Bandit (for security). The results are automatically aggregated into comprehensive reports and notifications to support informed, immediate action on issues.
+This project automates code quality analysis and security vulnerability scanning for code repositories, providing real-time feedback on code health and compliance. The pipeline uses Jenkins to trigger scans and orchestrate tools such as Snyk and Bandit (for security). The results are automatically aggregated into comprehensive reports and notifications to support informed, immediate action on issues.
 
 
 # Future Additions
